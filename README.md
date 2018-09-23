@@ -1,1 +1,2 @@
 # SushiBeltGame
+Use the buttons on the screen to go ahead and create various plates of sushi on the belt. You can choose between a wide variety of ingredients and plate colors to try and create the most profit. Also, there are buttons to view the statistics of the game including profit earned for yourself and the other random players.In order to rotate the belt after each turn, press the rotate button in the bottom left corner.
